@@ -6,44 +6,44 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://hassan.com.bd/</loc>
-  <lastmod>2021-03-01T16:38:18+00:00</lastmod>
+  <loc>https://hassan.bd/</loc>
+  <lastmod>2026-02-13T16:38:18+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 
 <url>
-  <loc>https://hassan.com.bd/files/privacy-policy/</loc>
-  <lastmod>2021-03-01T16:38:18+00:00</lastmod>
+  <loc>https://hassan.bd/files/privacy-policy/</loc>
+  <lastmod>2026-02-13T16:38:18+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 
 <url>
-  <loc>https://hassan.com.bd/files/terms-of-use/</loc>
-  <lastmod>2021-03-01T16:38:18+00:00</lastmod>
+  <loc>https://hassan.bd/files/terms-of-use/</loc>
+  <lastmod>2026-02-13T16:38:18+00:00</lastmod>
   <changefreq>monthly</changefreq>
  </url>
 
 <url>
-  <loc>https://hassan.com.bd/files/comment-policy/</loc>
-  <lastmod>2021-03-01T16:38:18+00:00</lastmod>
+  <loc>https://hassan.bd/files/comment-policy/</loc>
+  <lastmod>2026-02-13T16:38:18+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 
 <url>
-  <loc>https://hassan.com.bd/feed.xml</loc>
-  <lastmod>2021-03-01T16:38:18+00:00</lastmod>
+  <loc>https://hassan.bd/feed.xml</loc>
+  <lastmod>2026-02-13T16:38:18+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 
 <url>
-  <loc>https://hassan.com.bd/rss.xml</loc>
-  <lastmod>2021-03-01T16:38:18+00:00</lastmod>
+  <loc>https://hassan.bd/rss.xml</loc>
+  <lastmod>2026-02-13T16:38:18+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 
 <url>
-  <loc>https://hassan.com.bd/contact/</loc>
-  <lastmod>2021-03-01T16:38:18+00:00</lastmod>
+  <loc>https://hassan.bd/contact/</loc>
+  <lastmod>2026-02-13T16:38:18+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
